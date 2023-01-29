@@ -14,6 +14,7 @@ gem "jbuilder"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 gem 'haml-rails', '~> 2.1'
+gem 'simple_form', '~> 5.1'
 
 group :development, :test do
   #gem "debug", platforms: %i[ mri mingw x64_mingw ]
